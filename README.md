@@ -29,18 +29,19 @@ Cette application mobile Android permet à l'utilisateur de :
 ##  Images de test affichées dans l'application
 
 ### Maigreur
-![Image représentant la catégorie maigreur](images/maigre.png)
+<img src="images/maigre.png" alt="Maigreur" width="200"/>
 
-### Corpulence normale
-![Image représentant la catégorie normal](images/normal.png)
+### Normal
+<img src="images/normal.png" alt="Normal" width="200"/>
 
 ### Surpoids
-![Image représentant la catégorie surpoids](images/surpoids.png)
+<img src="images/surpoids.png" alt="Surpoids" width="200"/>
 
 ### Obésité modérée
-![Image représentant la catégorie obésité](images/obese.png)
+<img src="images/obese.png" alt="Obésité modérée" width="200"/>
 
 ### Obésité sévère
-![Image représentant la catégorie obésité sévère](images/t_obese.png)
+<img src="images/t_obese.png" alt="Obésité sévère" width="200"/>
+
 
 
